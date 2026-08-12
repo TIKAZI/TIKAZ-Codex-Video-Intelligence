@@ -2,7 +2,7 @@
 
 <h1 align="center">TIKAZ Video Intelligence for Codex</h1>
 <p align="center"><strong>Evidence-graded video reading with timestamps, keyframes, source cards, and cross-video synthesis.</strong></p>
-<p align="center"><a href="https://github.com/TIKAZI/TIKAZ-Codex-Video-Intelligence/actions/workflows/validate.yml"><img src="https://github.com/TIKAZI/TIKAZ-Codex-Video-Intelligence/actions/workflows/validate.yml/badge.svg" alt="Validate" /></a> <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-f4c95d.svg" alt="MIT" /></a> <img src="https://img.shields.io/badge/version-0.2.0-22D3EE.svg" alt="0.2.0" /></p>
+<p align="center"><a href="https://github.com/TIKAZI/TIKAZ-Codex-Video-Intelligence/actions/workflows/validate.yml"><img src="https://github.com/TIKAZI/TIKAZ-Codex-Video-Intelligence/actions/workflows/validate.yml/badge.svg" alt="Validate" /></a> <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-f4c95d.svg" alt="MIT" /></a> <img src="https://img.shields.io/badge/version-0.3.0-22D3EE.svg" alt="0.3.0" /></p>
 <p align="center"><a href="https://github.com/TIKAZI/TIKAZ-AI-Skills">← Explore all six TIKAZ AI Skills for Codex suites</a></p>
 
 ---
