@@ -1,8 +1,8 @@
 <svg width="1200" height="170" viewBox="0 0 1200 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="proof-title">
 <title id="proof-title">5: 从仅元数据阅读到第一手来源核验. 4: 字幕、视觉观察、外部核验与推断相互分离. 3: 字幕、语音识别与任务相关关键帧. 1: 主张保留时间锚点、证据等级、置信度与降级状态</title>
 <style>
-.value { fill: #22D3EE; font: 750 46px "Segoe UI", Arial, sans-serif; }
-.label { color: #334155; font: 600 20px/1.35 "Segoe UI", "Microsoft YaHei", Arial, sans-serif; text-align: center; }
+.value { fill: #22D3EE; font: 750 54px "Segoe UI", Arial, sans-serif; }
+.label { color: #334155; font: 600 24px/1.3 "Segoe UI", "Microsoft YaHei", Arial, sans-serif; text-align: center; }
 @media (prefers-color-scheme: dark) { .label { color: #CBD5E1; } }
 </style>
 <g class="proof" aria-label="从仅元数据阅读到第一手来源核验"><text class="value" x="150" y="70" text-anchor="middle">5</text><foreignObject x="15" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">证据等级</div></foreignObject></g><g class="proof" aria-label="字幕、视觉观察、外部核验与推断相互分离"><text class="value" x="450" y="70" text-anchor="middle">4</text><foreignObject x="315" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">分离的主张通道</div></foreignObject></g><g class="proof" aria-label="字幕、语音识别与任务相关关键帧"><text class="value" x="750" y="70" text-anchor="middle">3</text><foreignObject x="615" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">媒体证据通道</div></foreignObject></g><g class="proof" aria-label="主张保留时间锚点、证据等级、置信度与降级状态"><text class="value" x="1050" y="70" text-anchor="middle">1</text><foreignObject x="915" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">带时间戳来源账本</div></foreignObject></g>
