@@ -31,6 +31,13 @@ Clone or download this repository, then copy the repository folder into the Skil
 git clone https://github.com/TIKAZI/TIKAZ-Codex-Video-Intelligence.git
 ```
 
+## 🧩 Use one Skill independently
+
+Every Skill below has its own promise, installation command, example, execution contract, limits, and bilingual project page:
+
+- [`video-intelligence`](https://tikazi.github.io/TIKAZ-AI-Skills/skills/video-intelligence/index.html)
+- [`video-platform-reader`](https://tikazi.github.io/TIKAZ-AI-Skills/skills/video-platform-reader/index.html)
+
 ## 🚀 Try it
 
 ```text
