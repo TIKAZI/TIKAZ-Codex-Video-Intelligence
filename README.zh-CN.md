@@ -9,14 +9,7 @@
 由 **TIKAZ** 主导设计、整合、独立重构和持续维护。
 
 
-<table data-proof-strip="true" width="100%">
-<tr>
-<td data-proof-cell="true" align="center" width="200" title="从仅元数据阅读到第一手来源核验"><h3>5</h3><sub>证据等级</sub></td>
-<td data-proof-cell="true" align="center" width="200" title="字幕、视觉观察、外部核验与推断相互分离"><h3>4</h3><sub>分离的主张通道</sub></td>
-<td data-proof-cell="true" align="center" width="200" title="字幕、语音识别与任务相关关键帧"><h3>3</h3><sub>媒体证据通道</sub></td>
-<td data-proof-cell="true" align="center" width="200" title="主张保留时间锚点、证据等级、置信度与降级状态"><h3>1</h3><sub>带时间戳来源账本</sub></td>
-</tr>
-</table>
+<p align="center"><img src="assets/proof-strip.zh-CN.svg" alt="四项经过核对的核心优势" width="100%" /></p>
 
 ## ✨ 核心方法
 

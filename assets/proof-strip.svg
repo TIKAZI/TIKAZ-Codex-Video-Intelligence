@@ -1,0 +1,9 @@
+<svg width="1200" height="170" viewBox="0 0 1200 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="proof-title">
+<title id="proof-title">5: From metadata-only reading to primary-source verification. 4: Transcript, visual observation, external verification, and inference. 3: Transcript, ASR, and task-relevant keyframes. 1: Claims retain time anchors, evidence level, confidence, and fallback state</title>
+<style>
+.value { fill: #22D3EE; font: 750 46px "Segoe UI", Arial, sans-serif; }
+.label { color: #334155; font: 600 20px/1.35 "Segoe UI", "Microsoft YaHei", Arial, sans-serif; text-align: center; }
+@media (prefers-color-scheme: dark) { .label { color: #CBD5E1; } }
+</style>
+<g class="proof" aria-label="From metadata-only reading to primary-source verification"><text class="value" x="150" y="70" text-anchor="middle">5</text><foreignObject x="15" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">Evidence levels</div></foreignObject></g><g class="proof" aria-label="Transcript, visual observation, external verification, and inference"><text class="value" x="450" y="70" text-anchor="middle">4</text><foreignObject x="315" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">Separated claim lanes</div></foreignObject></g><g class="proof" aria-label="Transcript, ASR, and task-relevant keyframes"><text class="value" x="750" y="70" text-anchor="middle">3</text><foreignObject x="615" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">Media evidence channels</div></foreignObject></g><g class="proof" aria-label="Claims retain time anchors, evidence level, confidence, and fallback state"><text class="value" x="1050" y="70" text-anchor="middle">1</text><foreignObject x="915" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">Timestamped source ledger</div></foreignObject></g>
+</svg>
