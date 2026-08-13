@@ -7,6 +7,15 @@
 <p align="center"><a href="https://github.com/TIKAZI/TIKAZ-Codex-Video-Intelligence/actions/workflows/validate.yml"><img src="https://github.com/TIKAZI/TIKAZ-Codex-Video-Intelligence/actions/workflows/validate.yml/badge.svg" alt="Validate" /></a> <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-f4c95d.svg" alt="MIT" /></a> <img src="https://img.shields.io/badge/version-0.8.0-22D3EE.svg" alt="0.8.0" /></p>
 <p align="center"><a href="https://github.com/TIKAZI/TIKAZ-AI-Skills">← Explore all seven TIKAZ AI Skills for Codex suites</a></p>
 
+<table data-proof-strip="true" width="100%">
+<tr>
+<td data-proof-cell="true" align="center" width="25%" title="From metadata-only reading to primary-source verification"><h3>5</h3><sub>Evidence levels</sub></td>
+<td data-proof-cell="true" align="center" width="25%" title="Transcript, visual observation, external verification, and inference"><h3>4</h3><sub>Separated claim lanes</sub></td>
+<td data-proof-cell="true" align="center" width="25%" title="Transcript, ASR, and task-relevant keyframes"><h3>3</h3><sub>Media evidence channels</sub></td>
+<td data-proof-cell="true" align="center" width="25%" title="Claims retain time anchors, evidence level, confidence, and fallback state"><h3>1</h3><sub>Timestamped source ledger</sub></td>
+</tr>
+</table>
+
 ---
 
 ## ✨ One suite, ready to install
